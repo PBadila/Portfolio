@@ -416,12 +416,7 @@ a.btn:nth-child(2)::before{
     
 }
 
-.link-box{
-    position:absolute;
-    left:8%;
-    bottom:7px;
 
-}
 
 /* Contact section */
 .contact{
